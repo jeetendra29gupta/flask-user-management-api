@@ -1,0 +1,15 @@
+pip
+setuptools
+wheel
+
+python-dotenv
+requests
+
+flask
+
+sqlalchemy
+
+flasgger
+
+behave
+pytest
